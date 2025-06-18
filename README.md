@@ -9,7 +9,7 @@ This project creates a machine learning model to operate a semantic segmentation
 
 This dataset consists of `3,269` images in **12 classes** (including background). All images were taken from drones in a variety of scales. Below are sample images from some of the classes present in the dataset:
 
-TODO: UPDATE - ![](./visuals/sports_classification_image.jpg?raw=true)
+![](./visuals/aerial_drone_segmentation_dataset_image.jpg?raw=true)
 
 ---
 
@@ -44,17 +44,19 @@ transforms.extend([
 
 ---
 
-### Loss and Accuracy:
+### Inference for Validation:
 
-TODO: UPDATE - ![](./visuals/sports_classification_loss.png?raw=true) 
-
-TODO: UPDATE - ![](./visuals/sports_classification_accuracy.png?raw=true)
+![](./visuals/inference_for_validation_aerial_drone1.png?raw=true)
+![](./visuals/inference_for_validation_aerial_drone2.png?raw=true)
+![](./visuals/inference_for_validation_aerial_drone3.png?raw=true)
 
 ---
 
-### Inference:
+### Inference for Test:
 
-TODO: UPDATE
+![](./visuals/inference_for_test_aerial_drone1.png?raw=true)
+![](./visuals/inference_for_test_aerial_drone2.png?raw=true)
+![](./visuals/inference_for_test_aerial_drone3.png?raw=true)
 
 ---
 
@@ -62,4 +64,5 @@ TODO: UPDATE
 
 The configurations discussed above, yielded a score of **0.76993** on the Kaggle's Leaderboard.
 
-TODO: UPDATE - ![](./visuals/sports_classification_kaggle_leaderboard.png?raw=true)
+![](./visuals/aerial_drone_kaggle_title.png?raw=true)
+![](./visuals/aerial_drone_segment_kaggle.png?raw=true)
