@@ -52,6 +52,12 @@ TODO: UPDATE - ![](./visuals/sports_classification_accuracy.png?raw=true)
 
 ---
 
+### Inference:
+
+TODO: UPDATE
+
+---
+
 ### Accuracy on Test Dataset for Kaggle Submission
 
 The configurations discussed above, yielded a score of **0.76993** on the Kaggle's Leaderboard.
